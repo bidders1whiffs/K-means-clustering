@@ -1,1 +1,1 @@
-# K-means-clustering
+This code defines a kmeans function that takes a dataset (X), the number of clusters (k), and the maximum number of iterations as input. It initializes centroids randomly, assigns data points to the nearest centroid, and updates the centroids based on the mean of the assigned data points. The process is repeated for a specified number of iterations.
